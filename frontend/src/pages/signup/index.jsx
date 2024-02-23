@@ -30,7 +30,7 @@ function Signup() {
     marginTop: "7rem",
     marginLeft: "10rem",
     width: "50rem",
-    height: "36rem",
+    height: "35rem",
     border: "solid 1px #ccc",
     borderRadius: "8px",
     padding: "2rem",
