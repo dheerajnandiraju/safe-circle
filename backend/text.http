@@ -1,0 +1,13 @@
+###
+POST http://localhost:3000/auth/employeeLog
+Content-Type: application/json
+
+{
+    "username":"R Uday Kiran",
+    "email":"uuday3804@gmail.com",
+    "password":"Uday@1234",
+    "job":"security"
+}
+
+###
+GET http://localhost:3000/community-chat/get-communities
